@@ -1,2 +1,4 @@
 # hello-world
-Being with a Repository
+
+Hi Everyone,
+This is Nikita here, exploring github for the first time.
