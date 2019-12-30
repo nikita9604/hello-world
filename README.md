@@ -1,2 +1,2 @@
 # hello-world
-Being with a Repository
+Beginning with a Repository
